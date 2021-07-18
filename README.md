@@ -1,2 +1,3 @@
-# wsa_docs
-Walkthrough's for Burp Suite's Web Security Academy 
+### Web Security Academy Walkthroughs 
+Using this as a place to post my solutions for various web security academy challenges. 
+
